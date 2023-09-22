@@ -1,0 +1,4 @@
+INDEX VERSION 1.127+D:\Documentos\Erick Dejo Vicente - IA 2023\IA_Semana_05_Lab\.metadata\.plugins\org.eclipse.jdt.core
+22699913.index
+791594861.index
+4149227086.index
